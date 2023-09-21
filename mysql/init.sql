@@ -5,6 +5,6 @@ CREATE TABLE employees(
   full_name TEXT
 );
 INSERT INTO employees VALUES 
-  ('ID001', 'Thinh'),
-  ('ID002', 'Thanh'),
-  ('ID003', 'Hoang');
+  ('ID001', 'Employee 01'),
+  ('ID002', 'Employee 02'),
+  ('ID003', 'Employee 03');
